@@ -3,6 +3,15 @@
   <groupId>com.anwar</groupId>
   <artifactId>algorithms</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.20</version>
+    </dependency>
+  </dependencies>
+
   <build>
     <plugins>
       <plugin>
@@ -16,5 +25,4 @@
       </plugin>
     </plugins>
   </build>
-
 </project>
